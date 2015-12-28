@@ -1,10 +1,11 @@
 # SeatChoose
->- [Sample](#sample)
->- [Usage](#usage)
+>- [Sample](#Sample)
+>- [Usage](#Usage)
+>- [Reference](#Reference)
 
 This is the demo about choose the seat of cinema. The SeatView could zoom and translate.
 
-##sample
+##Sample
 You can double click the view change the size among of three size (MIN / MIDDLE / MAX).
 Also, moving the view is support. Next is the screenshot of different size :
 
@@ -19,8 +20,8 @@ Also, moving the view is support. Next is the screenshot of different size :
 >The seat view size is MAX and TRANSLATE :
 
 ![](https://github.com/Yangmxi/SeatChoose/raw/master/ImageCache/seatMaxTrans.png) 
-##usage
 
+##Usage
 That's easy to use. Just follow next steps:
 
 >#### Step 1: There is View in `Layout` 
@@ -104,3 +105,6 @@ photoView.setOnPhotoTapListener(new OnPhotoTapListener() {
             }
         });
 
+## Reference
+Thanks For Chrisbanes Helping.
+> [Chrisbanes Github] (https://github.com/chrisbanes/PhotoView)
