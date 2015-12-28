@@ -1,7 +1,7 @@
 # SeatChoose
->- [Sample](#Sample)
->- [Usage](#Usage)
->- [Reference](#Reference)
+>- [Sample](#sample)
+>- [Usage](#usage)
+>- [Reference](#reference)
 
 This is the demo about choose the seat of cinema. The SeatView could zoom and translate.
 
